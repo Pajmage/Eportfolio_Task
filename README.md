@@ -1,5 +1,4 @@
-# This Branch will contain all reports
+# This Branch will contain all Code Developed
 
-Week one: Report on Difference between Python and C++ in terms of OOP Principles
-Week two: Report on Difference between centralised and decentralised VCS
+Week one: Code to show basic OOP principles (Inheritence and dunder methods)
 
